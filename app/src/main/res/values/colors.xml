@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
-    <color name="colorBlue">#3816d4</color>
-    <color name="colorGreen">#0b5404</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="def_wheel_color">#DDDDDD</color>
+    <color name="def_reached_color">#0000FF</color>
+    <color name="def_pointer_color">#FFFFFF</color>
+    <color name="green_color">#008000</color>
+    <color name="diff_circle_color">#AAAAAA</color>
 </resources>

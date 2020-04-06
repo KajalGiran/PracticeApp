@@ -31,8 +31,8 @@
                     android:toDegrees="360" />
 
                 <gradient
-                    android:endColor="@color/colorBlue"
-                    android:startColor="@color/colorBlue"
+                    android:endColor="@color/colorAccent"
+                    android:startColor="@color/colorAccent"
                     android:type="sweep" />
 
             </shape>
